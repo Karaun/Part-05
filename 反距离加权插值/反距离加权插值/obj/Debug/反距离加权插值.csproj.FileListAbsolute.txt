@@ -1,0 +1,11 @@
+M:\C#学习资料\学习文件\反距离加权插值\反距离加权插值\bin\Debug\反距离加权插值.exe.config
+M:\C#学习资料\学习文件\反距离加权插值\反距离加权插值\bin\Debug\反距离加权插值.exe
+M:\C#学习资料\学习文件\反距离加权插值\反距离加权插值\bin\Debug\反距离加权插值.pdb
+M:\C#学习资料\学习文件\反距离加权插值\反距离加权插值\obj\Debug\反距离加权插值.csprojAssemblyReference.cache
+M:\C#学习资料\学习文件\反距离加权插值\反距离加权插值\obj\Debug\反距离加权插值.Form1.resources
+M:\C#学习资料\学习文件\反距离加权插值\反距离加权插值\obj\Debug\反距离加权插值.Properties.Resources.resources
+M:\C#学习资料\学习文件\反距离加权插值\反距离加权插值\obj\Debug\反距离加权插值.csproj.GenerateResource.cache
+M:\C#学习资料\学习文件\反距离加权插值\反距离加权插值\obj\Debug\反距离加权插值.csproj.CoreCompileInputs.cache
+M:\C#学习资料\学习文件\反距离加权插值\反距离加权插值\obj\Debug\反距离加权插值.exe
+M:\C#学习资料\学习文件\反距离加权插值\反距离加权插值\obj\Debug\反距离加权插值.pdb
+M:\C#学习资料\学习文件\反距离加权插值\反距离加权插值\obj\Debug\反距离加权插值.Form2.resources
